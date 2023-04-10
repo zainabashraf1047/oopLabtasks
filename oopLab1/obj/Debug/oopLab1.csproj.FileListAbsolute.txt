@@ -1,0 +1,7 @@
+D:\ooplab\oopLab1\oopLab1\bin\Debug\oopLab1.exe.config
+D:\ooplab\oopLab1\oopLab1\bin\Debug\oopLab1.exe
+D:\ooplab\oopLab1\oopLab1\bin\Debug\oopLab1.pdb
+D:\ooplab\oopLab1\oopLab1\obj\Debug\oopLab1.csproj.AssemblyReference.cache
+D:\ooplab\oopLab1\oopLab1\obj\Debug\oopLab1.csproj.CoreCompileInputs.cache
+D:\ooplab\oopLab1\oopLab1\obj\Debug\oopLab1.exe
+D:\ooplab\oopLab1\oopLab1\obj\Debug\oopLab1.pdb
